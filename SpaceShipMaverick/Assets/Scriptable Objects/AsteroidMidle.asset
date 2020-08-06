@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b548cff6ce101f245ac62ba3ee08628c, type: 3}
+  m_Name: AsteroidMidle
+  m_EditorClassIdentifier: 
+  anim: {fileID: 9100000, guid: dd212eca802d01f4dafb3e843e7b1057, type: 2}
+  speed: 1.4
+  score: 4
+  size: 0.46
+  health: 4
